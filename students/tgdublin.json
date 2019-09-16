@@ -1,0 +1,14 @@
+{
+  "firstName": "Tobias",
+  "lastName": "Dublin",
+  "nickName": "Monarilla",
+  "privateName": false,
+  "picture": "images/tgdublin.jpg",
+  "privatePicture": false,
+  "email": "tobias.dublin@mail.utoronto.ca",
+  "privateEmail": true,
+  "github": "tgdublin",
+  "privateGithub": false,
+  "superpower" : "Overabundance of luck, talking at mach speed",
+  "academicinterests": "Film, History, English, and anything that makes me sound smart."
+}
